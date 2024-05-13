@@ -1,0 +1,7 @@
+UserManager,Admin23,Idiot123@,barasai7,tienanmien1999@gamil.com,hà nội,ca hát
+UserClient,Baraname,Admin2391@,barasai8,tienanmien203@gamil.com,hà nội,ngủ
+UserStaff,Bara3342,Idiot45@,barasai24,tienanmien1203@gamil.com,hà nội,ăn
+UserClient,tienanmien,Tien1999@,barasai7,tienanmien192@gmail.com,hà nội,ngủ
+UserClient,barasai2,Tien1923@,ad,tienanmien2932@gmail.com,ha noi,ngu
+UserStaff,Tien123,Tien123%,adcode,tienasyde@gmail.com,ad,da
+UserClient,tien123865,Tienamien1239@,barasai9,tienan@gmail.com,hanoi,ad
